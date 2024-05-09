@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danny-Lisander
 - 👀 I’m interested in lyrics
-- 🌱 I’m currently learning C++, C#, JavaSkript, Python.
+- 🌱 I’m currently learning Vue, Flutter, Go.
 - 💞️ I’m looking to collaborate on myself
 - 📫 How to reach me 
 
